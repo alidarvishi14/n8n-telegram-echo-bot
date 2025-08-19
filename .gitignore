@@ -22,3 +22,6 @@ Thumbs.db
 
 # n8n
 .n8n/
+
+# Claude Code
+.claude/
