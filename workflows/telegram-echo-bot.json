@@ -30,13 +30,7 @@
       "position": [
         450,
         300
-      ],
-      "credentials": {
-        "telegramApi": {
-          "id": "1",
-          "name": "Telegram Bot API"
-        }
-      }
+      ]
     }
   ],
   "connections": {
